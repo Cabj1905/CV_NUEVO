@@ -102,7 +102,6 @@
         background-color: aquamarine;
         position: absolute;
         bottom: 0;
-        height: 5rem;
         flex-direction: row;
         flex-wrap: wrap;
         margin: 0px;
@@ -322,7 +321,7 @@
         background-color: aquamarine;
         position: absolute;
         bottom: 0;
-        height: 5rem;
+        height: 8rem;
         flex-direction: row;
         flex-wrap: wrap;
         margin: 0px;
@@ -330,8 +329,6 @@
         margin: auto;
         align-items: center;
         font-family: Arial, Helvetica, sans-serif;
-        height: auto;
-    
     }
     
     .all{
@@ -541,7 +538,7 @@
         background-color: aquamarine;
         position: absolute;
         bottom: 0;
-        height: 5rem;
+        height: 8rem;
         flex-direction: row;
         flex-wrap: wrap;
         margin: 0px;
@@ -549,7 +546,7 @@
         margin: auto;
         align-items: center;
         font-family: Arial, Helvetica, sans-serif;
-        height: auto;
+     
     
     }
     

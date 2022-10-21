@@ -1,2 +1,1 @@
-# CV_NUEVO
-Cv
+https://cabj1905.github.io/CV_NUEVO/
